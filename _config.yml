@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9680828796500414
+  lightness: 0.9667091825476031
+  rhythmicContrast: 0.5276163202935596
+  saturation: 0.9219029247638225
+cta: {}
+layout_spectrum: 0.8485549354758446
+name: 2nicedogs
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.5502682659000682
